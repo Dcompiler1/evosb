@@ -85,7 +85,7 @@ def make_btn(categories,product_id):
     return buttons
 
 def main():
-    TOKEN = '1943733467:AAFlFP_FWx_pjsa3h__PnAChQwimArv8AMs'
+    TOKEN = '5298470905:AAFYQUgM-4d9-DAmHnjOnUjde9bMlH47kmA'
     updater = Updater(TOKEN)
 
     conv_handler = ConversationHandler(
